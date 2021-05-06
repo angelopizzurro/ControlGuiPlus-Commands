@@ -14,6 +14,9 @@
 /cg info <Player> for view player's info
   
   
+/cg freeze <Player> for freeze a player
+  
+  
 /cg reload for reload the plugin
   
   
